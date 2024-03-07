@@ -8,11 +8,11 @@ Despite ongoing efforts to improve road safety, Greater Manchester continues to 
 
 Addressing this need, the "Greater Manchester Road Safety Analyzer Power BI Dashboard" aims to:
 
-Aggregate and analyze extensive datasets on traffic incidents, casualties, and contributing factors.
-Provide a user-friendly interface for visualizing key metrics, including accident hotspots, trends over time, and demographic insights.
-Empower local authorities and stakeholders to identify areas for improvement and implement targeted interventions to enhance road safety.
-Serve as a centralized platform for data-driven decision-making, fostering collaboration and coordination among relevant parties.
-Contribute to the overarching goal of reducing traffic incidents and promoting public safety within Greater Manchester.
+1. Aggregate and analyze extensive datasets on traffic incidents, casualties, and contributing factors.
+2. Provide a user-friendly interface for visualizing key metrics, including accident hotspots, trends over time, and demographic insights.
+3. Empower local authorities and stakeholders to identify areas for improvement and implement targeted interventions to enhance road safety.
+4. Serve as a centralized platform for data-driven decision-making, fostering collaboration and coordination among relevant parties.
+5. Contribute to the overarching goal of reducing traffic incidents and promoting public safety within Greater Manchester.
 
 ## Introduction
 
