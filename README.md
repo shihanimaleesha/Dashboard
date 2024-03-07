@@ -1,4 +1,4 @@
-# Greater Manchester Road Safety-Dashboard
+# Greater Manchester Road Safety - PowerBI Dashboard
 
 ### Dashboard Link : https://kduac-my.sharepoint.com/:u:/g/personal/39-adc-0040_kdu_ac_lk/EdpbjVEWcMdGmB--viA8Io8BIrp310NdUtYZCNcdcvpO8w?e=MKWB2d
 
